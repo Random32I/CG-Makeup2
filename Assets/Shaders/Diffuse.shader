@@ -8,7 +8,7 @@ Shader "Custom/Diffuse"
 
         _Amount("Extrude", Range(-1,2)) = 0.01
         _OutlineColor ("Outline Color", Color) = (0,0,0,1)
-        _Outline ("Outline Width", Range (0.02,0.5)) = .005
+        _Outline ("Outline Width", Range (0.02,1)) = .005
 
 	}
 SubShader{
