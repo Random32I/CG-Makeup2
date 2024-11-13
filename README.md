@@ -7,7 +7,5 @@ The reason why we used outline is for contrast between the background and the pl
 LUTs: Used colour grading knowledge learned in class. Attached a script to camera do process the LUT. The two LUTs were made using a combination of the threshold and gradient map in photoshop. The LUTS were based off of one of Little Mac's smash costumes. We added the blue one to create a sense of impact while punching.
 
 
-How we impleted this we first modify the hologram so that the rim because stronger and increased the width of the hologram and thats it
 
-For out line and diffuse I then increased the saturation of the shadows so it wouldn't be fully black but made it a range so that if a player takes damage the saturation increases I then combined it with the outline which also saw a width increase.
-
+![Punch drawio](https://github.com/user-attachments/assets/66face76-bfe1-4339-beab-af18d7e72fba)
