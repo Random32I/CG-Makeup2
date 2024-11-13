@@ -1,3 +1,8 @@
+Alex Lebeuf 100874220
+Erik Qin 100911172
+Isis Powers 100863041
+
+
 Explanation of shader
 
 We used 3 different shaders (Outline, Hologram, Diffuse) And 2 Colorgradient to enhance the graphics of punch out.
